@@ -14,7 +14,7 @@ The project requires the following dependencies to run:
 
 ## Building The Project
 
-The easier way to use the application is to directly download the fat jar from the [release page](https://github.com/aymenhta/kman/releases). Or if you can use the following commands to build it.
+You can use the following commands to build the application:
 
 ```shell
 git clone https://github.com/aymenhta/kman
